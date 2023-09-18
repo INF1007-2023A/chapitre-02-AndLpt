@@ -4,7 +4,7 @@ def majuscule(mot):
     # TODO completer la fonction ici
     nouveaumot = ""
     for c in mot:
-        nouveaumdot += ch(ord(c) - 32)
+        nouveaumot += ch(ord(c) - 32)
         return nouveaumot
 
 

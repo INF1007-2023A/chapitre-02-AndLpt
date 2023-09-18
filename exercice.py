@@ -5,7 +5,7 @@ def majuscule(mot):
     nouveaumot = ""
     for c in mot:
         nouveaumot += ch(ord(c) - 32)
-        return nouveaumot
+    return nouveaumot
 
 
 if __name__ == '__main__':

@@ -3,7 +3,7 @@
 def majuscule(mot):
     # TODO completer la fonction ici
     for c in mot:
-        nouveau_mot = ch(o)
+        nouveau_mot = ch(ord)
     return mot
 
 

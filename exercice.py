@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     # TODO completer la fonction ici
-    for c in m
+    for c in mot:
+        
     return mot
 
 

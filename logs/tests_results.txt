@@ -1,3 +1,6 @@
-test_upper_case_names (__main__.TestExercice.test_upper_case_names) 
-Ran 1 test in 0.000s
+test_upper_case_names (__main__.TestExercice.test_upper_case_names) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.011s
+
 OK
